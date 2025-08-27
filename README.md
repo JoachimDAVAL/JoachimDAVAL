@@ -1,6 +1,6 @@
-# Hi, I'm Joachim 👋
+# Hi, I'm Joachim!!
 
-I'm a **Junior Fullstack Web Developer** looking for an **alternance** starting ASAP or freelance projects.  
+I'm a **Junior Fullstack Web Developer** looking for an **alternance** or freelance projects.  
 I completed a web development training at **O'Clock** and hold the **DWWM** and **OpQuast** certifications.
 
 ---
@@ -20,6 +20,8 @@ I completed a web development training at **O'Clock** and hold the **DWWM** and 
   - Live demo available!  
 
 ---
+
+If you are interested in working together you can contact me on the link below!
 
 ## 📫 Contact & Links
 

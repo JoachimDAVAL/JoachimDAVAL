@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Joachim 👋
 
-<!--
-**JoachimDAVAL/JoachimDAVAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Fullstack Web Developer** looking for an **alternance** starting ASAP or freelance projects.  
+I completed a web development training at **O'Clock** and hold the **DWWM** and **OpQuast** certifications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL, Sequelize  
+
+---
+
+## 📂 Projects
+
+- **[Hoovie](https://hoovie.vercel.app/)** – A movie discovery app using the TMDb API, built with React, Vite, and Express.  
+  - Features: Search, categories, dynamic filtering, responsive design.  
+  - Live demo available!  
+
+---
+
+## 📫 Contact & Links
+
+- **LinkedIn:** [linkedin.com/in/joachim-daval-048027233](https://linkedin.com/in/joachim-daval-048027233)  
+
+---
+
+
